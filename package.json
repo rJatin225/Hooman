@@ -1,7 +1,7 @@
 {
   "name": "worldwide-bot",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.cjs",
   "type": "module",
   "dependencies": {
     "discord.js": "^14.15.3"

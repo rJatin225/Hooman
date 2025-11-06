@@ -1,0 +1,10 @@
+name: worldwide-bot
+env:
+  - name: TOKEN
+    value: ""
+  - name: CLIENT_ID
+    value: ""
+build:
+  type: buildpack
+run:
+  cmd: ["node", "index.js"]
